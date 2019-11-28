@@ -1,5 +1,5 @@
 {
-  "name": "ics.js",
+  "name": "ics-browser-gen",
   "version": "0.1.3",
   "description": "A browser firendly .ics/.vcs file generator written entirely in javascript",
   "main": "ics.js",
